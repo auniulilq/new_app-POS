@@ -16,9 +16,6 @@
                             <div class="card-body">
 
                                 <div class="pt-4 pb-2  text-center">
-
-                                    <img src="{{ asset('assets/image/logoppkdjp.jpeg') }}" alt="" width="80"
-                                        height="80">
                                     <h5 class="card-title text-center pb-0 fs-4">Login to Your Account</h5>
                                     <p class="text-center small">Enter your email & password to login</p>
                                 </div>

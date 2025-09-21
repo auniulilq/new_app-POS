@@ -3,8 +3,8 @@
 
     <div class="d-flex align-items-center justify-content-between">
         <a href="/" class="logo d-flex align-items-center">
-            <img src="{{ asset('assets/image/logoppkdkantin.jpeg') }}" alt="">
-            <span class="d-none d-lg-block">PPKD JakPus | POS</span>
+           
+            <span class="d-none d-lg-block">POS</span>
         </a>
         <i class="bi bi-list toggle-sidebar-btn"></i>
     </div><!-- End Logo -->
